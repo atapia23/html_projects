@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My Dog Oran</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <main>
+    <h1>My Dog Oran</h1>
+    <img src="oran_6months.jpg" alt="Oran 6 months old" style="width: 499px;height: 666px;">
+    <p>Oran is my 6 month old mixed breed puppy, who my wife and I adopted in June 2024</p>
+    <p>He loves to run in the dog park and meet every single person on the street</p>
+    <p>Here is a list of his top breeds</p>
+    <ol>
+      <li>American Staffordshire Terrier</li>
+      <li>Pitbull</li>
+      <li>Australian Cattle Dog</li>
+      <li>Neopolitan Mastiff</li>
+    </ol>
+    
+    <h2>Adoption Day!</h2>
+    <p>We adopted him from a rescue at 2 months old. We originally just went to look but as soon as my Wife
+      <br>saw him, we were done for and immediately started the paperwork to bring him home.</p>
+    
+    <p><img src="oran_2months.jpg" alt="Oran 2 months old" style="float:right;width:400px;height:577px;">
+    He snared us with his big blue/gray eyes and big adorable ears. We were nervous at first since he is our      first puppy. But he is just the sweetest baby who loves to play and get attention from anyone he can.</p>
+
+    <aside>
+    <p><img src="oran_sleeping.jpg" alt="Oran sleeping" style="width:400px;height:577px;">
+    There is a lot of <a href="https://www.thehumanesociety.org/debunking-pit-bull-myths/"   target="_blank">misunderstanding</a> when it comes bully breeds. If you raise your dog with love and appropriate training, you will have one of the sweetest and most loving companions.
+    </p>
+    </aside>
+    
+  </main>
+
+<footer>
+  <p>Oran's Mom Inc.</p>
+</footer>
+</body>
+
+</html>
